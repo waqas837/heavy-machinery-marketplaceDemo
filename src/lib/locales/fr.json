@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "dealerPortal": "Portail des Revendeurs",
+    "sellEquipment": "Vendre Votre Équipement",
+    "getFinancing": "Obtenir un Financement",
+    "categories": "Catégories",
+    "findDealers": "Trouver des Revendeurs",
+    "marketReports": "Obtenir des Rapports de Marché",
+    "advertising": "Publicité",
+    "contact": "Nous Contacter"
+  },
+  "hero": {
+    "title": "Équipements de Construction Neufs et d'Occasion à Vendre",
+    "searchPlaceholder": "Rechercher un équipement...",
+    "search": "Rechercher"
+  },
+  "categories": {
+    "title": "Catégories d'Équipements",
+    "skidSteers": "Chargeuses Compactes",
+    "miniExcavators": "Mini Pelles",
+    "excavators": "Pelles",
+    "forklifts": "Chariots Élévateurs",
+    "lifts": "Ascenseurs",
+    "dozers": "Bulldozers",
+    "trenchers": "Trancheuses / Charrue à Câble",
+    "cranes": "Grues",
+    "loaderBackhoes": "Chargeuses-Pelleteuses",
+    "wheelLoaders": "Chargeuses sur Pneus",
+    "forestryEquipment": "Équipements Forestiers",
+    "drills": "Foreuses",
+    "motorGraders": "Niveleuses",
+    "sweepers": "Balayeuses / Équipements de Balayage",
+    "aggregateEquipment": "Équipements de Granulats",
+    "telehandlers": "Télescopiques",
+    "offHighwayTrucks": "Camions Tout Terrain",
+    "asphaltPavers": "Équipements d'Asphalte / Finisseurs / Béton",
+    "attachments": "Accessoires de Construction",
+    "dismantledMachines": "Machines Démantelées",
+    "parts": "Pièces"
+  },
+  "brands": {
+    "title": "Marques Populaires",
+    "caterpillar": "Caterpillar",
+    "deere": "Deere",
+    "genie": "Genie",
+    "jlg": "JLG",
+    "komatsu": "Komatsu",
+    "volvo": "Volvo",
+    "bobcat": "Bobcat",
+    "case": "Case",
+    "jcb": "JCB",
+    "hyundai": "Hyundai"
+  },
+  "listings": {
+    "title": "Dernières Annonces Ajoutées à Vendre",
+    "viewDetails": "Voir les Détails",
+    "saveToList": "Enregistrer dans la Liste",
+    "saved": "Enregistré",
+    "price": "Prix",
+    "year": "Année",
+    "hours": "Heures"
+  },
+  "parts": {
+    "title": "Pièces, Accessoires et Machines Démantelées",
+    "searchParts": "Rechercher des Pièces",
+    "partNumber": "Numéro de Pièce",
+    "searchDismantled": "Rechercher des Machines Démantelées",
+    "selectManufacturer": "Sélectionner un Fabricant",
+    "selectModel": "Sélectionner un Modèle",
+    "allManufacturers": "Tous les Fabricants",
+    "allModels": "Tous les Modèles"
+  },
+  "footer": {
+    "about": "À Propos de Nous",
+    "advertising": "Publicité",
+    "contact": "Nous Contacter",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "copyright": "Copyright © 2025 Marché de Machinerie Lourde"
+  },
+  "common": {
+    "language": "Langue",
+    "english": "Anglais",
+    "spanish": "Espagnol",
+    "french": "Français"
+  }
+}
+
