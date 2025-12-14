@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next';
 import { 
   Truck, Wrench, Hammer, Building2, ArrowUp, Shield, 
   Drill, TreeDeciduous, Settings, Package, 
-  Road, Link2, Cog, Zap, Layers, Gauge
+  MapPin, Link2, Cog, Zap, Layers, Gauge, Square
 } from 'lucide-react';
 
 const categories = [
@@ -20,12 +20,12 @@ const categories = [
   { key: 'wheelLoaders', icon: Truck, color: 'from-teal-500 to-teal-600' },
   { key: 'forestryEquipment', icon: TreeDeciduous, color: 'from-green-600 to-green-700' },
   { key: 'drills', icon: Drill, color: 'from-blue-600 to-blue-700' },
-  { key: 'motorGraders', icon: Road, color: 'from-slate-500 to-slate-600' },
+  { key: 'motorGraders', icon: Square, color: 'from-slate-500 to-slate-600' },
   { key: 'sweepers', icon: Gauge, color: 'from-gray-500 to-gray-600' },
   { key: 'aggregateEquipment', icon: Settings, color: 'from-orange-600 to-orange-700' },
   { key: 'telehandlers', icon: Package, color: 'from-cyan-500 to-cyan-600' },
   { key: 'offHighwayTrucks', icon: Truck, color: 'from-red-600 to-red-700' },
-  { key: 'asphaltPavers', icon: Road, color: 'from-gray-700 to-gray-800' },
+  { key: 'asphaltPavers', icon: Square, color: 'from-gray-700 to-gray-800' },
   { key: 'attachments', icon: Link2, color: 'from-blue-700 to-blue-800' },
   { key: 'dismantledMachines', icon: Cog, color: 'from-gray-800 to-gray-900' },
   { key: 'parts', icon: Zap, color: 'from-amber-600 to-amber-700' },
